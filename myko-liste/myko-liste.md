@@ -4,15 +4,26 @@ Zuletzt aktualisiert am _12. November 2023_
 
 ---
 
-[Bücher](#bücher)  
+[Bücher](#bcher)  
+&nbsp;&nbsp;[antiquarisch](#antiquarisch)  
 [Dokumente](#dokumente)   
 [Kurse](#kurse)  
 [Podcasts](#podcasts)  
+[Videos](#videos)  
+&nbsp;&nbsp;[Mediathek](#mediathek)  
+&nbsp;&nbsp;[YouTube](#youtube)  
 [Webseiten](#webseiten)  
+&nbsp;&nbsp;[Foren](#foren)  
+&nbsp;&nbsp;[Freunde & Bekannte](#freunde--bekannte)  
+&nbsp;&nbsp;[Instagram](#instagram)  
+&nbsp;&nbsp;[Kartenmaterial](#kartenmaterial)  
+&nbsp;&nbsp;[Pilzsachverständige](#pilzsachverstndige)  
+[Software & Apps](#software--apps)  
+
 
 ---
 
-## Bücher
+## B&uuml;cher
 
 Bücher über Pilze gibt es wie Sand am Meer. Hier sind ein paar Lieblinge von mir.
 
@@ -85,6 +96,31 @@ Ullstein Taschenbuchverlag
 978-3843724265 (eBook, auch als Buch verfügbar)  
 15,99 €  
 
+### Antiquarisch
+
+  * [Archive.org](https://archive.org)  
+  * [Booklooker.de](https://www.booklooker.de/) 💰 Bücher gebraucht kaufen  
+  * [Biodiversity Library](https://biodiversitylibrary.org/)  
+  * [Zentraler Verband antiquarischer Bücher](https://www.zvab.com/) 💰  
+
+**Handbuch für Pilzfreunde**  
+Bruno Hennig & Edmund Michael  
+Gustav Fischer Verlag  
+1958  
+[Band 1](https://archive.org/details/handbuchfrpilzfr01henn)  
+[Band 2](https://archive.org/details/handbuchfrpilzfr02henn)  
+[Band 3](https://archive.org/details/handbuchfrpilzfr03henn)  
+[Band 4](https://archive.org/details/handbuchfrpilzfr04henn)  
+[Band 5](https://archive.org/details/handbuchfrpilzfr05henn)  
+
+**Führer für Pilzfreunde**  
+Edmund Michael  
+Förster & Borries  
+1901  
+[Band 1](https://archive.org/details/fhrerfrpilzfreun01mich/)  
+[Band 2](https://archive.org/details/fhrerfrpilzfreun02mich/)  
+[Band 3](https://archive.org/details/fhrerfrpilzfreun03mich/)  
+
 ## Dokumente
 
 [DGfM e.V. - Giftpilze nach Taxa](https://www.dgfm-ev.de/pilzesammeln-und-vergiftungen/vergiftungen/hilfe-bei-pilzvergiftungen?name=Giftpilze_nach_Taxa_20230319.pdf&reattachment=a7ef9f3b68412d740f112f233f1adf47)  
@@ -109,28 +145,123 @@ Ullstein Taschenbuchverlag
 
 ## Kurse
 
-[**Pilze 1** von der NABU|naturgucker-Akademie](https://artenwissen.online/goto.php?target=crs_461)  
-[**Pilze 2** von der NABU|naturgucker-Akademie](https://artenwissen.online/goto.php?target=crs_859)  
+[**Pilze 1**](https://artenwissen.online/goto.php?target=crs_461) & [**Pilze 2**](https://artenwissen.online/goto.php?target=crs_859)  
+Ein Kurs für alle Anfangenden. Kein Vorwissen benötigt; Einstiegskurs.
+
+**[Vorlesung: Evolution und Ökologie der Pilze](https://timms.uni-tuebingen.de/tp/UT_20051209_002_pilze_0001)**  
+28 Unterrichtsstunden, gehalten an der Uni von Franz Oberwinkler (†). Hinweis: Sehr fachspezifisch; großes Vorwissen in der Biologie und auch ein bisschen in der Mykologie vonnötten. Ziemlich _trocken_ präsentiert, aber sehr informativ.
 
 ## Podcasts
 
 ### Pilzpodcast
 [Instagram](https://www.instagram.com/pilzpodcast) | [Podcast](https://linktr.ee/pilzpodcast)
 
+## Videos
+
+### Mediathek
+
+**[Pilze - die biologische Wunderwaffe](https://www.zdf.de/wissen/scobel/scobel---pilze-die-biologische-wunderwaffe-100.html)**  
+_In welcher Weise könnten Pilze die zukünftige Entwicklung der Menschheit beeinflussen, und auf welche Weise könnten sie dazu beitragen, Herausforderungen wie Abfallentsorgung, Rohstoffmangel und Nahrungsknappheit zu bewältigen?_  
+Scobel / ZDF  
+Datum: 15.04.2021  
+Videolänge: 57 min  
+Video verfügbar bis 15.04.2026  
+
+**[Superhelden Pilze](https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzY3YmM0NWE0LWY4OTYtNGEyNS1iMjIwLWY1MjUzN2FjOWQxZg)**  
+_Patrik Mürner, der Pilzexperte aus der Schweiz, setzt auf die transformative Kraft von Pilzen. Sein Ziel ist es, durch ihre Hilfe belastete Böden zu revitalisieren. Diese erstaunlichen Organismen aus der Erde könnten nicht nur dazu beitragen, Kunststoffe zu ersetzen – Forscher arbeiten auch an innovativen Materialien wie Pilzleder, nachhaltigen Styroporersatz und sogar Baustoffen! Darüber hinaus finden essbare Pilze in neuartiger Form als Fleischalternativen bereits ihren Weg auf unsere Teller. Könnten Pilze somit der Schlüssel zur Förderung der Kreislaufwirtschaft sein?_  
+alpha / ARD  
+Datum: 15.05.2023  
+Videolänge: 44 Minuten  
+Video verfügbar bis 14.05.2028  
+
+### YouTube
+
+#### Baumaterialien aus Pilzen
+[How to make a myco-brick](https://www.youtube.com/watch?v=c6nurN-Hii8)  
+[MY-CO BUILD Tutorial (2023, DE | EN)](https://www.youtube.com/watch?v=tqtHN3ZC6xY)  
+
+#### giftige Pilze
+[Pilzvortrag: Karl Kob - Pilzvergiftungen mit kurzer Latenzzeit](https://www.youtube.com/watch?v=SLZVJqT2qAs)  
+[Pilzvortrag: Karl Kob - Pilzvergiftungen mit langer Latenzzeit](https://www.youtube.com/watch?v=_veAC9lAcYY)  
+
+#### weitere Accounts
+[Buschfunkistan](https://www.youtube.com/@Buschfunkistan)  
+
 ## Webseiten
+
+### Foren
 [123pilze.de Forum](https://www.123pilze.de/000Forum/board/)  
-[Dezjas Notizen](https://t.me/s/DezjasNotizen)  
-[Mycokey Pilz AI](https://svampe.databasen.org/en/imagevision)  
 [Pilzforum.eu](https://www.pilzforum.eu/board/)  
+
+### Freunde & Bekannte
+
+[Pilzpalast](https://www.instagram.com/pilzpalast)  
+[Denise](https://www.instagram.com/de.nise.ol/)  
+[Dezjas Notizen](https://t.me/s/DezjasNotizen) (mein eigener digitaler Notizzettel)  
+
+### Kartenmaterial
+
+**[NIBIS® Kartenserver](https://nibis.lbeg.de/cardomap3/)**  
+Der NIBIS® KARTENSERVER informiert mit mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe. Dort gibt es auch eine sehr gute Topokarte, die ausgedruckt werden kann.  
+**Tipp**: 
+  * Grundkarte → Open Street Map (weltweit farbig)
+  * Themenkarten → Bodenkunde → Allgemeine Bodenkarten → Forstliche Standortskarte 1:25:000
+  
+**[Umweltkarten Niedersachsen](https://www.umweltkarten-niedersachsen.de/Umweltkarten/?lang=de&topic=Natur&bgLayer=TopographieGrau)** | [meine Auswahl](https://urls.niedersachsen.de/bjz9)
+
+**[Weathercloud](https://app.weathercloud.net/)**  
+Infos von privaten Wetterstationen einsehen
+
+### Pilzbestimmung
+[Mycokey Pilz AI](https://svampe.databasen.org/en/imagevision)  
 [Pilzsuche von 123pilze.de](https://www.123pilzsuche-2.de/)  
-
-
 
 ### Instagram
 
-[Pilzpalast](https://www.instagram.com/pilzpalast)  
-[Pilzpodcast](https://www.instagram.com/pilzpodcast) 
+[Bean_Mama](https://www.instagram.com/bean_mama/) ![Sprache: Englisch](data/flagicon_gb2.svg)  
+[Hansepilz](https://www.instagram.com/hansepilz/)  
+[Mycostories](https://www.instagram.com/mycostories/) ![Sprache: Englisch](data/flagicon_gb2.svg)  
+[Northspore Mushrooms](https://www.instagram.com/northsporemushrooms/) ![Sprache: Englisch](data/flagicon_gb2.svg)  
+[Pilzcoach Badenweiler](https://www.instagram.com/pilzcoachbadenweiler)  
+[Pilzmädchen](https://www.instagram.com/pilzmaedchen/)  
+[Pilzpodcast](https://www.instagram.com/pilzpodcast)  
+[Pilzwetter](https://www.instagram.com/pilzwetter/)  
 
-### Pilzsachverständige
+### Pilzsachverst&auml;ndige
 
 [DGfM e.V. - PSV Liste mit Suchfunktion und Karte](https://www.dgfm-ev.de/service/pilzsachverstaendige)
+
+## Software & Apps
+
+‼️ Bester Tipp für lange Wanderungen: **Powerbank** mitnehmen! 😀
+
+**[Diktiergerät (App)](https://f-droid.org/de/packages/com.simplemobiletools.voicerecorder/)**  
+Super App, um mal eben schnell ein paar Notizen einzusprechen, oder um (mit Windschutz am Handy) mal eben schnell einen Audiocast/Podcast aufzunehmen.
+
+**[GridArt](https://play.google.com/store/apps/details?id=photoeditor.layout.collagemaker&hl=de)** 💰  
+Mit der App erstelle ich meine Fotokollagen. Kostenlos nutzbar, enthält optionalen Inhalt zum Kaufen.
+
+**[Komoot](https://www.komoot.de/)** 💰  
+Touren planen. Kostenlos nutzbar, hat aber auch Karten zum Kaufen.
+
+**[Organic Maps](https://organicmaps.app/de/)**  
+Kartenmaterial offline mitnehmen. OpenSource, gratis. Für Android & iPhone.
+
+**[SatStat](https://f-droid.org/de/packages/com.vonglasow.michael.satstat/)**  
+Verbessert auf meinem Android binnen weniger Sekunden die Satellitenverbindung für GPS
+
+**[SuperFreezZ App-Stopper](https://f-droid.org/de/packages/superfreeze.tool.android/)**  
+Vollständiges Einfrieren aller Hintergrundaktivitäten von Apps. Schont den Akku, vor allem nützlich auf Wanderungen.
+
+**[μlogger](https://f-droid.org/de/packages/net.fabiszewski.ulogger/)**  
+GPS-Tracks aufzeichnen mit Schwerpunkt auf Datenschutz. Energiesparend.
+
+**[Warnwetter App vom DWD](https://www.dwd.de/DE/leistungen/warnwetterapp/warnwetterapp.html)**  
+Sehr nützliches Regenradar, Wetterwarnungen etc.
+
+**[What3Words](https://what3words.com/de/using-your-address)**  
+Die Welt in 3x3 Meter Quadrate unterteilt, mit zufälligen Wörtern versehen. [Beispiel](https://what3words.com/vorgeben.ruhe.%C3%BCberall).
+
+---
+
+Fragen oder Anregungen? Über nette, freundliche Post freue ich mich: _em.notorp@ajzed_ 🔄
