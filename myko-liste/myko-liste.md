@@ -4,6 +4,7 @@ Zuletzt aktualisiert am _12. November 2023_
 
 ---
 
+[Bilder](#bilder)  
 [Bücher](#bcher)  
 &nbsp;&nbsp;[antiquarisch](#antiquarisch)  
 [Dokumente](#dokumente)   
@@ -22,6 +23,33 @@ Zuletzt aktualisiert am _12. November 2023_
 
 
 ---
+
+## Bilder
+
+Suchbegriff: _pilz || pilze || fungus ||fungi || mushroom || mushrooms || mycology_
+
+**[Biodiversitylibrary / Flickr](https://www.flickr.com/search/?user_id=61021753%40N02&view_all=1&text=pilz%20OR%20pilze%20OR%20fungus%20ORfungi%20OR%20mushroom%20OR%20mushrooms%20OR%20mycology)**
+
+**[Commons.Wikimedia.org](https://commons.wikimedia.org/w/index.php?search=pilz+%7C%7C+pilze+%7C%7C+fungus+%7C%7Cfungi+%7C%7C+mushroom+%7C%7C+mushrooms+%7C%7C+mycology&title=Special:MediaSearch&go=Go&type=image)**
+
+**[Flaticon](https://www.flaticon.com/search?word=mushroom)**
+
+**[Freepik](https://de.freepik.com/search?format=search&query=pilz%20%7C%7C%20pilze%20%7C%7C%20fungus%20%7C%7Cfungi%20%C%7C%20mushroom%20%7C%7C%20mushrooms%20%7C%7C%20mycology)**
+
+**[Kaboompics](https://kaboompics.com/gallery?search=pilz%20%7C%7C%20pilze%20%7C%7C%20fungus%20%7C%7Cfungi%20%7C%7C%20mushroom%20%7C%7C%20mushrooms%20%7C%7C%20mycology)**
+
+**[New York Public Library Digital Collections](https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=mushroom)**
+
+**[Openverse](https://openverse.org/de/search/image?q=pilz%20%7C%7C%20pilze%20%7C%7C%20fungus%20%7C%7Cfungi%20%7C%7C%20mushroom%20%7C%7C%20mushrooms%20%7C%7C%20mycology)**
+
+**[Pexels](https://www.pexels.com/de-de/suche/open%20sourcepilz%20%7C%7C%20pilze%20%7C%7C%20fungus%20%7C%7Cfungi%20%7C%7C%20mushroom%20%7C%7C%20mushrooms%20%7C%7C%20mycology/)**
+
+**[Pixabay](https://pixabay.com/images/search/pilz%20%7c%7c%20pilze%20%7c%7c%20fungus%20%7c%7cfungi%20%7c%7c%20mushroom%20%7c%7c%20mushrooms%20%7c%7c%20mycology/)**
+
+**[Unsplash](https://unsplash.com/de/s/fotos/pilz-%7C%7C-pilze-%7C%7C-fungus-%7C%7Cfungi-%7C%7C-mushroom-%7C%7C-mushrooms-%7C%7C-mycology)**
+
+**[Vecteezy](https://www.vecteezy.com/free-vector/mushroom)**
+
 
 ## B&uuml;cher
 
