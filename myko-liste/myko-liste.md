@@ -21,7 +21,6 @@ Zuletzt aktualisiert am _12. November 2023_
 &nbsp;&nbsp;[Pilzsachverständige](#pilzsachverstndige)  
 [Software & Apps](#software--apps)  
 
-
 ---
 
 ## Bilder
@@ -188,16 +187,30 @@ Ein Kurs für alle Anfangenden. Kein Vorwissen benötigt; Einstiegskurs.
 
 ### Mediathek
 
+Tipp: Viele der Videos lassen sich direkt über [mediathekviewweb.de](https://mediathekviewweb.de) ansehen.
+
+**[Im Königreich der Pilze](https://www.phoenix.de/sendungen/dokumentationen/im-koenigreich-der-pilze-a-1903890.html)**  
+_In der Dokumentation wird der Entstehungsprozess von Pilzen beleuchtet, wie sie sich erfolgreich gegen Naturgewalten behaupten und sogar aktiv zur Gestaltung unserer Welt beitragen. Ein vertieftes Verständnis für die Überlebensstrategien von Pilzen könnte der modernen Medizin die Entwicklung neuer Medikamente ermöglichen. Ähnlich wie Penicillin, das auf einem Schimmelpilz basiert, könnten auch zukünftige Generationen von Antibiotika aus Pilzen hervorgebracht werden._  
+Doku/Phönix  
+Videolänge: 53 Minuten  
+
 **[Pilze - die biologische Wunderwaffe](https://www.zdf.de/wissen/scobel/scobel---pilze-die-biologische-wunderwaffe-100.html)**  
 _In welcher Weise könnten Pilze die zukünftige Entwicklung der Menschheit beeinflussen, und auf welche Weise könnten sie dazu beitragen, Herausforderungen wie Abfallentsorgung, Rohstoffmangel und Nahrungsknappheit zu bewältigen?_  
-Scobel / ZDF  
+Scobel/ZDF  
 Datum: 15.04.2021  
 Videolänge: 57 min  
 Video verfügbar bis 15.04.2026  
 
+**[Pilze - Wie sie die Welt retten können](https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTAzZmZmNjMxLTRhM2QtNDE1MC1hMGU4LTFkYjkwZGQ2MzY5NA)**  
+_Es gibt zahlreiche Pilzarten in unseren heimischen Wäldern, von denen viele nicht nur lecker, sondern auch manche sogar tödlich sind. Doch Pilze erweisen sich nicht nur in kulinarischer Hinsicht als vielfältig, sondern auch als erstaunliche biologische Wunderwaffe gegen Schadstoffe in Luft, Boden und Wasser. Einige Pilzarten können sogar Plastik ersetzen. Darüber hinaus dienen sie bereits heute als bedeutende Quelle für die Produktion von Grundstoffen für Medikamente. Wie steht es um den aktuellen Kenntnisstand bezüglich der vielfältigen Einsatzmöglichkeiten von Pilzen?_  
+Quarks/WDR  
+Datum: 06.10.2022  
+Videolänge: 45 Minuten  
+Video verfügbar bis 06.10.2027  
+
 **[Superhelden Pilze](https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzY3YmM0NWE0LWY4OTYtNGEyNS1iMjIwLWY1MjUzN2FjOWQxZg)**  
 _Patrik Mürner, der Pilzexperte aus der Schweiz, setzt auf die transformative Kraft von Pilzen. Sein Ziel ist es, durch ihre Hilfe belastete Böden zu revitalisieren. Diese erstaunlichen Organismen aus der Erde könnten nicht nur dazu beitragen, Kunststoffe zu ersetzen – Forscher arbeiten auch an innovativen Materialien wie Pilzleder, nachhaltigen Styroporersatz und sogar Baustoffen! Darüber hinaus finden essbare Pilze in neuartiger Form als Fleischalternativen bereits ihren Weg auf unsere Teller. Könnten Pilze somit der Schlüssel zur Förderung der Kreislaufwirtschaft sein?_  
-alpha / ARD  
+alpha/ARD  
 Datum: 15.05.2023  
 Videolänge: 44 Minuten  
 Video verfügbar bis 14.05.2028  
