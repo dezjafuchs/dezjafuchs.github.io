@@ -1,6 +1,6 @@
 Eine kuratierte Liste rund um die Mykologie; stetig wachsend wie ein Myzel.
 
-Zuletzt aktualisiert am _12. November 2023_
+Zuletzt aktualisiert am _20. November 2023_
 
 ---
 
@@ -13,13 +13,14 @@ Zuletzt aktualisiert am _12. November 2023_
 [Videos](#videos)  
 &nbsp;&nbsp;[Mediathek](#mediathek)  
 &nbsp;&nbsp;[YouTube](#youtube)  
+[Software & Apps](#software--apps)  
 [Webseiten](#webseiten)  
 &nbsp;&nbsp;[Foren](#foren)  
 &nbsp;&nbsp;[Freunde & Bekannte](#freunde--bekannte)  
 &nbsp;&nbsp;[Instagram](#instagram)  
 &nbsp;&nbsp;[Kartenmaterial](#kartenmaterial)  
 &nbsp;&nbsp;[Pilzsachverständige](#pilzsachverstndige)  
-[Software & Apps](#software--apps)  
+[Sonstiges](#sonstiges)  
 
 ---
 
@@ -228,6 +229,37 @@ Video verfügbar bis 14.05.2028
 #### weitere Accounts
 [Buschfunkistan](https://www.youtube.com/@Buschfunkistan)  
 
+## Software & Apps
+
+‼️ Bester Tipp für lange Wanderungen: **Powerbank** mitnehmen! 😀
+
+**[Diktiergerät (App)](https://f-droid.org/de/packages/com.simplemobiletools.voicerecorder/)**  
+Super App, um mal eben schnell ein paar Notizen einzusprechen, oder um (mit Windschutz am Handy) mal eben schnell einen Audiocast/Podcast aufzunehmen.
+
+**[GridArt](https://play.google.com/store/apps/details?id=photoeditor.layout.collagemaker&hl=de)** 💰  
+Mit der App erstelle ich meine Fotokollagen. Kostenlos nutzbar, enthält optionalen Inhalt zum Kaufen.
+
+**[Komoot](https://www.komoot.de/)** 💰  
+Touren planen. Kostenlos nutzbar, hat aber auch Karten zum Kaufen.
+
+**[Organic Maps](https://organicmaps.app/de/)**  
+Kartenmaterial offline mitnehmen. OpenSource, gratis. Für Android & iPhone.
+
+**[SatStat](https://f-droid.org/de/packages/com.vonglasow.michael.satstat/)**  
+Verbessert auf meinem Android binnen weniger Sekunden die Satellitenverbindung für GPS
+
+**[SuperFreezZ App-Stopper](https://f-droid.org/de/packages/superfreeze.tool.android/)**  
+Vollständiges Einfrieren aller Hintergrundaktivitäten von Apps. Schont den Akku, vor allem nützlich auf Wanderungen.
+
+**[μlogger](https://f-droid.org/de/packages/net.fabiszewski.ulogger/)**  
+GPS-Tracks aufzeichnen mit Schwerpunkt auf Datenschutz. Energiesparend.
+
+**[Warnwetter App vom DWD](https://www.dwd.de/DE/leistungen/warnwetterapp/warnwetterapp.html)**  
+Sehr nützliches Regenradar, Wetterwarnungen etc.
+
+**[What3Words](https://what3words.com/de/using-your-address)**  
+Die Welt in 3x3 Meter Quadrate unterteilt, mit zufälligen Wörtern versehen. [Beispiel](https://what3words.com/vorgeben.ruhe.%C3%BCberall).
+
 ## Webseiten
 
 ### Foren
@@ -272,36 +304,13 @@ Infos von privaten Wetterstationen einsehen
 
 [DGfM e.V. - PSV Liste mit Suchfunktion und Karte](https://www.dgfm-ev.de/service/pilzsachverstaendige)
 
-## Software & Apps
+## Sonstiges
+**[Wässrig-alkoholische Auszüge selbst herstellen](https://olionatura.de/basiswissen/pflanzen-verarbeiten/waessrig-alkoholische-pflanzenauszuege-herstellen/)**  
+Eine richtig gute Seite mit tollen, hilfreichen Erklärungen. So kann man sich auch Pilzextrakte selber machen. Dazu gibt es auch ein [Video: Extrakte Filtern mit der Glasnutsche](https://vimeo.com/505364983) und hier mehrere Infos zum 
+[Alkohol verdünnen](https://olionatura.de/tipps-und-tricks-aus-der-praxis/alkohol-verduennen/) // [hier eine andere Seite dazu](https://www.wildfind.com/artikel/tinkturen-pflanzenauszug-mit-hochprozentigem-alkohol) // [Mischtabelle](https://biebelshofer.de/blog/mischen-von-alkohol-und-wasser-mischtabelle/). Miniformel: _(reiner Alkohol / gewünschte Prozent * 100) - Alkoholmenge_. Beispiel: 200 ml Weingeist mit 96 % Alkohol. Gewünschtes Endergebnis: 20 % Alkohol. 0,789 Gramm ist ungefähr das Gewicht von Alkohol pro Milliliter bei mittlerer Raumtemperatur. Die Berechnung lautet: _200 * 0,96 * 0,789 / 20 * 100 - 200 = 557,44_ ml Wasser müssen hinzugefügt werden, um eine Verdünnung auf 20 % zu erreichen. Man erhält dann 757,44 ml Flüssigkeit. DEV (Droge-Extrakt-Verhältnis) 1:5 bis 1:10. 200 ml / 5 = 40 g Pilz. // 2. Beispiel: 15 ml (ca. 1 EL) Extrakt (eingestellt auf 20 Vol.-% Alkohol) werden mit 300 ml Wasser gemischt. 15 ml enthalten ca. _15 * 0,2 * 0,789 = 2,367_ g Alkhol, bzw. _15 * 0,2_ = 3 % Alkohol. Verdünnt mit 300 ml Wasser enthält das ganze Getränk also 3 / 315 * 100 ~= 0,952 % Alkohol. Gemischt mit 600 ml Wasser ensteht so ein Getränk mit ~0,487 % Alkohol. 757,44 ml Gesamtflüssigkeit enhalten ca. 50 Portionen. (_757,44 / 15 = 50,496_), hergestellt aus 200 ml Weingeist mit 96 Vol.-% Alkohol. Die Infos sind von verschiedenen Seiten zusammengetragen und nur als Information & Anregung für eine eigene Recherche gedacht, nicht zum Selbstexperiment. Keine Garantie auf Richtigkeit oder Funktion. Eher eine mathematische Spielerei zum persönlichen Amüsement.
 
-‼️ Bester Tipp für lange Wanderungen: **Powerbank** mitnehmen! 😀
 
-**[Diktiergerät (App)](https://f-droid.org/de/packages/com.simplemobiletools.voicerecorder/)**  
-Super App, um mal eben schnell ein paar Notizen einzusprechen, oder um (mit Windschutz am Handy) mal eben schnell einen Audiocast/Podcast aufzunehmen.
 
-**[GridArt](https://play.google.com/store/apps/details?id=photoeditor.layout.collagemaker&hl=de)** 💰  
-Mit der App erstelle ich meine Fotokollagen. Kostenlos nutzbar, enthält optionalen Inhalt zum Kaufen.
-
-**[Komoot](https://www.komoot.de/)** 💰  
-Touren planen. Kostenlos nutzbar, hat aber auch Karten zum Kaufen.
-
-**[Organic Maps](https://organicmaps.app/de/)**  
-Kartenmaterial offline mitnehmen. OpenSource, gratis. Für Android & iPhone.
-
-**[SatStat](https://f-droid.org/de/packages/com.vonglasow.michael.satstat/)**  
-Verbessert auf meinem Android binnen weniger Sekunden die Satellitenverbindung für GPS
-
-**[SuperFreezZ App-Stopper](https://f-droid.org/de/packages/superfreeze.tool.android/)**  
-Vollständiges Einfrieren aller Hintergrundaktivitäten von Apps. Schont den Akku, vor allem nützlich auf Wanderungen.
-
-**[μlogger](https://f-droid.org/de/packages/net.fabiszewski.ulogger/)**  
-GPS-Tracks aufzeichnen mit Schwerpunkt auf Datenschutz. Energiesparend.
-
-**[Warnwetter App vom DWD](https://www.dwd.de/DE/leistungen/warnwetterapp/warnwetterapp.html)**  
-Sehr nützliches Regenradar, Wetterwarnungen etc.
-
-**[What3Words](https://what3words.com/de/using-your-address)**  
-Die Welt in 3x3 Meter Quadrate unterteilt, mit zufälligen Wörtern versehen. [Beispiel](https://what3words.com/vorgeben.ruhe.%C3%BCberall).
 
 ---
 
