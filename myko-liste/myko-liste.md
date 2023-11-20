@@ -1,6 +1,6 @@
 Eine kuratierte Liste rund um die Mykologie; stetig wachsend wie ein Myzel.
 
-Zuletzt aktualisiert am _20. November 2023_
+Zuletzt aktualisiert am _21. November 2023_
 
 ---
 
@@ -218,13 +218,17 @@ Video verfügbar bis 14.05.2028
 
 ### YouTube
 
+#### Manifeste, Ideen & Visionen  
+**[Fungal Manifesto (2023, DE | EN)](https://www.youtube.com/watch?v=dUhBbHKhn_0)**  
+Ein Film über die Veränderungen, die Pilze in der Welt bewirken und wie sie die wissenschaftliche und künstlerische Forschung von Vera Meyer (Biotechnologin und Künstlerin) und Phil Ross (Künstler und Mitbegründer von MycoWorks) inspirieren.  
+
 #### Baumaterialien aus Pilzen
-[How to make a myco-brick](https://www.youtube.com/watch?v=c6nurN-Hii8)  
-[MY-CO BUILD Tutorial (2023, DE | EN)](https://www.youtube.com/watch?v=tqtHN3ZC6xY)  
+  * [How to make a myco-brick](https://www.youtube.com/watch?v=c6nurN-Hii8)  
+  * [MY-CO BUILD Tutorial (2023, DE | EN)](https://www.youtube.com/watch?v=tqtHN3ZC6xY)  
 
 #### giftige Pilze
-[Pilzvortrag: Karl Kob - Pilzvergiftungen mit kurzer Latenzzeit](https://www.youtube.com/watch?v=SLZVJqT2qAs)  
-[Pilzvortrag: Karl Kob - Pilzvergiftungen mit langer Latenzzeit](https://www.youtube.com/watch?v=_veAC9lAcYY)  
+  * [Pilzvortrag: Karl Kob - Pilzvergiftungen mit kurzer Latenzzeit](https://www.youtube.com/watch?v=SLZVJqT2qAs)  
+  * [Pilzvortrag: Karl Kob - Pilzvergiftungen mit langer Latenzzeit](https://www.youtube.com/watch?v=_veAC9lAcYY)  
 
 #### weitere Accounts
 [Buschfunkistan](https://www.youtube.com/@Buschfunkistan)  
@@ -307,7 +311,7 @@ Infos von privaten Wetterstationen einsehen
 ## Sonstiges
 **[Wässrig-alkoholische Auszüge selbst herstellen](https://olionatura.de/basiswissen/pflanzen-verarbeiten/waessrig-alkoholische-pflanzenauszuege-herstellen/)**  
 Eine richtig gute Seite mit tollen, hilfreichen Erklärungen. So kann man sich auch Pilzextrakte selber machen. Dazu gibt es auch ein [Video: Extrakte Filtern mit der Glasnutsche](https://vimeo.com/505364983) und hier mehrere Infos zum 
-[Alkohol verdünnen](https://olionatura.de/tipps-und-tricks-aus-der-praxis/alkohol-verduennen/) // [hier eine andere Seite dazu](https://www.wildfind.com/artikel/tinkturen-pflanzenauszug-mit-hochprozentigem-alkohol) // [Mischtabelle](https://biebelshofer.de/blog/mischen-von-alkohol-und-wasser-mischtabelle/). Miniformel: _(reiner Alkohol / gewünschte Prozent * 100) - Alkoholmenge_. Beispiel: 200 ml Weingeist mit 96 % Alkohol. Gewünschtes Endergebnis: 20 % Alkohol. 0,789 Gramm ist ungefähr das Gewicht von Alkohol pro Milliliter bei mittlerer Raumtemperatur. Die Berechnung lautet: _200 * 0,96 * 0,789 / 20 * 100 - 200 = 557,44_ ml Wasser müssen hinzugefügt werden, um eine Verdünnung auf 20 % zu erreichen. Man erhält dann 757,44 ml Flüssigkeit. DEV (Droge-Extrakt-Verhältnis) 1:5 bis 1:10. 200 ml / 5 = 40 g Pilz. // 2. Beispiel: 15 ml (ca. 1 EL) Extrakt (eingestellt auf 20 Vol.-% Alkohol) werden mit 300 ml Wasser gemischt. 15 ml enthalten ca. _15 * 0,2 * 0,789 = 2,367_ g Alkohol, bzw. _15 * 0,2_ = 3 % Alkohol. Verdünnt mit 300 ml Wasser enthält das ganze Getränk also 3 / 315 * 100 ~= 0,952 % Alkohol. Gemischt mit 600 ml Wasser entsteht so ein Getränk mit ~0,487 % Alkohol. 757,44 ml Gesamtflüssigkeit enthalten ca. 50 Portionen. (_757,44 / 15 = 50,496_), hergestellt aus 200 ml Weingeist mit 96 Vol.-% Alkohol. Die Infos sind von verschiedenen Seiten zusammengetragen und nur als Information & Anregung für eine eigene Recherche gedacht, nicht zum Selbstexperiment. Keine Garantie auf Richtigkeit oder Funktion. Eher eine mathematische Spielerei zum persönlichen Amüsement.
+[Alkohol verdünnen](https://olionatura.de/tipps-und-tricks-aus-der-praxis/alkohol-verduennen/) // [hier eine andere Seite dazu](https://www.wildfind.com/artikel/tinkturen-pflanzenauszug-mit-hochprozentigem-alkohol) // [Mischtabelle](https://biebelshofer.de/blog/mischen-von-alkohol-und-wasser-mischtabelle/). Miniformel: _(((reiner Alkohol * 0,789) / gewünschte Prozent) * 100) - Alkoholmenge_. Beispiel: 200 ml Weingeist mit 96 % Alkohol. Gewünschtes Endergebnis: 20 % Alkohol. 0,789 Gramm ist ungefähr das Gewicht von Alkohol pro Milliliter bei mittlerer Raumtemperatur. Die Berechnung lautet: _200 * 0,96 * 0,789 / 20 * 100 - 200 = 557,44_ ml Wasser müssen hinzugefügt werden, um eine Verdünnung auf 20 % zu erreichen. Man erhält dann 757,44 ml Flüssigkeit. DEV (Droge-Extrakt-Verhältnis) 1:5 bis 1:10. 200 ml / 5 = 40 g Pilz. // 2. Beispiel: 15 ml (ca. 1 EL) Extrakt (eingestellt auf 20 Vol.-% Alkohol) werden mit 300 ml Wasser gemischt. 15 ml enthalten ca. _15 * 0,2 * 0,789 = 2,367_ g Alkohol, bzw. _15 * 0,2_ = 3 % Alkohol. Verdünnt mit 300 ml Wasser enthält das ganze Getränk also 3 / 315 * 100 ~= 0,952 % Alkohol. Gemischt mit 600 ml Wasser entsteht so ein Getränk mit ~0,487 % Alkohol. 757,44 ml Gesamtflüssigkeit enthalten ca. 50 Portionen. (_757,44 / 15 = 50,496_), hergestellt aus 200 ml Weingeist mit 96 Vol.-% Alkohol. Die Infos sind von verschiedenen Seiten zusammengetragen und nur als Information & Anregung für eine eigene Recherche gedacht, nicht zum Selbstexperiment. Keine Garantie auf Richtigkeit oder Funktion. Eher eine mathematische Spielerei zum persönlichen Amüsement.
 
 ---
 
